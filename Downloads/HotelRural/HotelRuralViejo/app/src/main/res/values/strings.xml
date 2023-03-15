@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HotelRural</string>
+    <string name="order_by_room_id">Order by room Id</string>
+    <string name="order_by_maxOc">Order by max. occupacy</string>
+    <string name="order_by_price">Order by price</string>
+    <string name="delete_room">Delete room</string>
+    <string name="edit_room">Edit room</string>
+    <string name="compute_tests">Compute Tests</string>
+    <string name="delete_res">Delete res</string>
+    <string name="edit_res">Edit res</string>
+    <string name="order_by_res_id">Order by resm Id</string>
+    <string name="order_by_name">Order by name</string>
+    <string name="order_by_phone">Order by phone</string>
+    <string name="consult">SHOW ROOMS OR RESERVATIONS</string>
+    <string name="show_rooms">SHOW ROOMS</string>
+    <string name="show_res">SHOW RESERVATIONS</string>
+    <string name="creation">CREATE ROOMS OR RESERVATIONS</string>
+    <string name="create_rooms">CREATE ROOM</string>
+    <string name="create_res">CREATE RESERVATION</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_max_occupacy">Enter max occupacy</string>
+    <string name="title_activity_list_rooms">ListRooms</string>
+
+</resources>
