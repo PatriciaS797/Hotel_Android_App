@@ -17,9 +17,10 @@ This repository contains a basic Android application developed in Java. The app 
 
 ## Installation
 
+
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/simple-android-app.git
+    git clone https://github.com/PatriciaS797/Hotel_Android_App.git
     ```
 
 2. **Open in Android Studio**:
